@@ -1,7 +1,37 @@
-title: Annalisa Taylor
-logo: /assets/img/AnnalisaTaylor.jpeg
-description: Ph. D. Candidate
-description: [Google Scholar](https://scholar.google.com/citations?user=OpLiVy8AAAAJ&hl=en)
-show_downloads: False
-google_analytics:
+# title: Annalisa Taylor
+# logo: /assets/img/AnnalisaTaylor.jpeg
+# description: Ph. D. Candidate
+# show_downloads: False
+# google_analytics:
 theme: jekyll-theme-minimal
+
+
+# Site Author
+author:
+  name             : "Annalisa Taylor"
+  avatar: /assets/img/AnnalisaTaylor.jpeg
+  bio              : "Ph. D. Candidate"
+  location         : "Chicago, IL"
+  email            : # "atulletaylor@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:atulletaylor@gmail.com
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/atulletaylor"
+    - label: "Google Scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=OpLiVy8AAAAJ&hl=en"
+    #- label: "CV"
+      #icon: "fas fa-fw fa-address-card"
+     # url: "/assets/pdfs/Pervan_CV.pdf"
