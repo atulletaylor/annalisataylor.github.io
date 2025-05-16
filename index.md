@@ -12,8 +12,7 @@ Under Construction!
 
 
 ## Robot Collaboration with Implicit Communication
-![Clover Gif](assets/img/cropped_clover_experiment.gif)
-![Texturing Clover Gif](assets/img/cropped_clover_experiment.gif)
+![Clover Gif](assets/img/cropped-clover-experiment.gif)
 
 #### Header 4
 
