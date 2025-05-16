@@ -15,5 +15,5 @@ Under Construction!
 ## Robot Collaboration with Implicit Communication
 [Image to Patterning: Density-specified Patterning of Micro-structured Surfaces with a Mobile Robot](https://ieeexplore.ieee.org/document/10802317 'Link title')
 
-![Clover Gif](assets/img/cropped-clover-experiment.gif)
+![Clover Gif](assets/img/cropped_clover_experiment.gif)
 
