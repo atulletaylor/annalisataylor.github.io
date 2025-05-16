@@ -14,9 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-# Safe Coverage for Heterogeneous Swarms with Limited Communication
+## Safe Coverage for Heterogeneous Swarms with Limited Communication
 
-![Octocat](https://github.githubassets.com/images/multi-agent-gif.gif)
+![Swarm Gif](https://github.githubassets.com/images/multi-agent-gif.gif)
 
 > This is a blockquote following a header.
 >
