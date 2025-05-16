@@ -5,7 +5,7 @@ layout: default
 # About Me
 
 Under Construction!
-[## Safe Coverage for Heterogeneous Swarms with Limited Communication](https://ieeexplore.ieee.org/abstract/document/10669222)
+!##[Safe Coverage for Heterogeneous Swarms with Limited Communication](https://ieeexplore.ieee.org/abstract/document/10669222)
 ![Swarm Gif](assets/img/multi-agent-clip.gif)
 
 
