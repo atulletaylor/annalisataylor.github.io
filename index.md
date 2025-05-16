@@ -15,7 +15,7 @@ Under Construction!
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ## Robot Collaboration with Implicit Communication
-![Texturing Clover Gif](assets/img/multi-agent-clip.gif)
+![Texturing Clover Gif](assets/img/cropped_clover_experiment.gif)
 
 #### Header 4
 
