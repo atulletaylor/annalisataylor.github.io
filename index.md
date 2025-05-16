@@ -2,9 +2,13 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 Under Construction!
+### Background
+
+### Research Interests
+
 
 ## Safe Coverage with Limited Communication
 [Safe Coverage for Heterogeneous Systems with Limited Communication](https://ieeexplore.ieee.org/abstract/document/10669222)
