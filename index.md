@@ -10,14 +10,9 @@ Under Construction!
 
 ![Swarm Gif](assets/img/multi-agent-clip.gif)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ## Robot Collaboration with Implicit Communication
 ![Clover Gif](assets/img/cropped_clover_experiment.gif)
-
-
 ![Texturing Clover Gif](assets/img/cropped_clover_experiment.gif)
 
 #### Header 4
