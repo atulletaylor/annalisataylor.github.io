@@ -10,7 +10,7 @@ I am a Ph. D. Candidate at Northwestern University advised by Todd Murphey in th
 ### Background
 
 ### Research Interests
-
+Check out my work below!
 
 ## Safe Coverage with Limited Communication
 [Safe Coverage for Heterogeneous Systems with Limited Communication](https://ieeexplore.ieee.org/abstract/document/10669222)
