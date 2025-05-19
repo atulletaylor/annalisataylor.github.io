@@ -5,7 +5,8 @@ author_profile: true
 
 ## About Me
 
-Under Construction!
+I am a Ph. D. Candidate at Northwestern University advised by Todd Murphey in the [Interactive and Emergent Autonomy Lab](https://murpheylab.github.io/).
+
 ### Background
 
 ### Research Interests
