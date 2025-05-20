@@ -11,7 +11,7 @@ I am particularly interested in control-driven methods for active learning, real
 ### Background
 I am currently a Ph. D. Candidate at Northwestern University advised by Todd Murphey in the [Interactive and Emergent Autonomy Lab](https://murpheylab.github.io/) expected to graduate in 2025. I attended Stanford University and graduated witha B.S. in Mechanical Engineering in 2017.
 
-See my [resume](assets/Resume_Draft_2025 (1).pdf) for more information!
+See my [resume](assets/Resume.pdf) for more information!
 
 ## Research Interests
 ### Safe Coverage with Limited Communication
